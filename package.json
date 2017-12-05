@@ -1,7 +1,7 @@
 {
   "title": "New Age",
   "name": "startbootstrap-new-age",
-  "version": "4.0.0-beta.2",
+  "version": "1.0.0",
   "description": "A one page app landing page HTML theme for Bootstrap.",
   "keywords": [
     "css",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/new-age",
+  "homepage": "http://throughaglass.io/metomap-site/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/joao-osilva/metomap-site/issues",
+    "email": "vitor191291@gmail.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "João Silva",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "João Silva (http://throughaglass.io)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+    "url": "https://github.com/joao-osilva/metomap-site.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
